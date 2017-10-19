@@ -12,7 +12,7 @@ public class JDBC {
 		// TODO Auto-generated method stub
 		JDBC jd= new JDBC();
 		Connection conn=jd.getConnection();
-		
+	//git test for merge	
 		//git test
 		System.out.println(conn);
 		String sql="select * from student";
