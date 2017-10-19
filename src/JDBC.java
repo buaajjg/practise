@@ -13,7 +13,7 @@ public class JDBC {
 		JDBC jd= new JDBC();
 		Connection conn=jd.getConnection();
 		
-		
+		//git test
 		System.out.println(conn);
 		String sql="select * from student";
 		try {
