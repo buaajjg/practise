@@ -15,7 +15,10 @@ public class JDBC {
 	//git test for merge	
 		//git test
 		//
+
 		//hualallala  dada1111
+
+		//hualallala  dada0000
 		System.out.println(conn);
 		String sql="select * from student";
 		try {
