@@ -14,6 +14,8 @@ public class JDBC {
 		Connection conn=jd.getConnection();
 	//git test for merge	
 		//git test
+		//
+		//hualallala
 		System.out.println(conn);
 		String sql="select * from student";
 		try {
