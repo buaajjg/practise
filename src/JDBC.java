@@ -21,6 +21,8 @@ public class JDBC {
 
 		//hualallala  dada0000
 		//hualallala  9898
+		//
+		//stash 
 		System.out.println(conn);
 		String sql="select * from student";
 		try {
