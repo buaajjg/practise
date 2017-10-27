@@ -20,6 +20,7 @@ public class JDBC {
 		//hualallala  dada1111
 
 		//hualallala  dada0000
+		//hualallala  9898
 		System.out.println(conn);
 		String sql="select * from student";
 		try {
